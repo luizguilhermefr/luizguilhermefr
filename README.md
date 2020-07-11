@@ -6,7 +6,7 @@
 
 <samp>
   
-  - I am a computer scientist, currently working as a software engineer at [Loadsmart](https://loadsmart.com)
+  - I am a computer scientist, currently working as a software engineer at <a href="https://www.loadsmart.com/" target="_blank">Loadsmart</a>
 
   - Working today mainly with Django (Python) and React (JavaScript)
 
