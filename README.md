@@ -6,13 +6,7 @@
 
 <samp>
   
-  - I am a computer scientist, currently working as a software engineer at <a href="https://www.loadsmart.com/" target="_blank">Loadsmart</a>
-
-  - Working today mainly with Django (Python) and React (JavaScript)
-
-  - Love to work with Laravel (PHP), Vue.js (JavaScript) and Android (Java) too
-
-  - Artificial Intelligence and Internet of Things hobbyist/enthusiast
+Hello, world! 👋 I'm a Computer Science BSc who's currently an Engineering Manager for <a href="https://opendock.com/" target="_blank">Opendock</a>, the best dock scheduling system out there! I mostly write code in TypeScript, Python, and PHP. I'm also super excited about Artificial Intelligence 🤖 and IoT 💡.
 
 </samp>
 
